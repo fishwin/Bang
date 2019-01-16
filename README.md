@@ -1,2 +1,2 @@
 # Bang
-A game written by typescript.
+A game written by typescript and egret.
