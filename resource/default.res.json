@@ -1,0 +1,35 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,ball_hit_mp3,button_clik_mp3",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "sound/ball_hit.mp3",
+			"type": "sound",
+			"name": "ball_hit_mp3"
+		},
+		{
+			"url": "sound/button_clik.mp3",
+			"type": "sound",
+			"name": "button_clik_mp3"
+		}
+	]
+}
